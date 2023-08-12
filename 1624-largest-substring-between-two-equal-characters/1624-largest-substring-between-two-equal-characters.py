@@ -16,5 +16,3 @@ class Solution:
                 max_len = diff if diff > max_len else max_len
 
         return max_len
-            
-            
