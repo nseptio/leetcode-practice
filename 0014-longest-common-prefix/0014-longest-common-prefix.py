@@ -6,6 +6,6 @@ class Solution:
         last_str = sorted_list[-1]
         for i in range(0, len(first_str)):
             if first_str[i] != last_str[i]:
-                return result
+                break
             result += first_str[i]
         return result
