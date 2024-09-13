@@ -1,6 +1,4 @@
-import (
-    "strings"
-)
+import "strings"
 
 func isPrefixOfWord(sentence string, searchWord string) int {
     fields := strings.Fields(sentence)
