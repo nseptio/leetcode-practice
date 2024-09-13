@@ -7,5 +7,6 @@ func countPrefixes(words []string, s string) int {
 			result++
 		}
 	}
+    
 	return result
 }
