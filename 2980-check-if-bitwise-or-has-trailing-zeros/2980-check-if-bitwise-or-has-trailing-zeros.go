@@ -5,6 +5,9 @@ func hasTrailingZeros(nums []int) bool {
         if nums[i] & 1 == 0 {
             check = append(check, i)
         }
+        if len(check) == 2 {
+            return true
+        }
     }
     
     return len(check) >= 2
