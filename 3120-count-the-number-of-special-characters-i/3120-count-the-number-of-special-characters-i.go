@@ -2,8 +2,8 @@ import "unicode"
 
 func numberOfSpecialChars(word string) int {
 
-    upperChar := make(map[rune]bool, len(word))
-    lowerChar := make(map[rune]bool, len(word))
+    upperChar := make(map[rune]bool, 0)
+    lowerChar := make(map[rune]bool, 0)
     result := 0
     for _, r := range word {
         if unicode.IsLower(r) {
