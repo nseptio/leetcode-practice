@@ -5,6 +5,6 @@ def sales_person(sales_person: pd.DataFrame, company: pd.DataFrame, orders: pd.D
         ~sales_person["sales_id"]
             .isin(
                 company[company["name"] == "RED"]
-                    .merge(orders, on='com_id')["sales_id"]
+                    .merge(orders[["sales_id", "com_id"]], on='com_id')["sales_id"]
             )
         ][["name"]]
