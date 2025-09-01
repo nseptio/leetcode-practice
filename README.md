@@ -12,4 +12,16 @@
 | [0577-employee-bonus](https://github.com/nseptio/leetcode-practice/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/nseptio/leetcode-practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/nseptio/leetcode-practice/tree/master/0607-sales-person) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nseptio/leetcode-practice/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nseptio/leetcode-practice/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nseptio/leetcode-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
