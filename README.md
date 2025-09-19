@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nseptio/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/nseptio/leetcode-practice/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nseptio/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/nseptio/leetcode-practice/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
