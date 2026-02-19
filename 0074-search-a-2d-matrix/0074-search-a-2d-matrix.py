@@ -1,25 +1,33 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        if not matrix:
-            return False
+        m = len(matrix)
+        n = len(matrix[0])
 
-        rows = len(matrix)
-        cols = len(matrix[0])
+        s = [0, 0]
+        e = [m - 1, n - 1]
+        while s[0] <= e[0]:
+            if s[0] == e[0] and s[1] > e[1]:
+                break
+            mid_index = [e[0] + s[0], e[1] + s[1]]
+            mid_index_len = (n*mid_index[0] + mid_index[1]) // 2
+            mid_index = [mid_index_len // n, mid_index_len % n]
 
-        left = 0
-        right = rows * cols - 1
-
-        while left <= right:
-            mid_point = left + (right - left) // 2
-            mid_point_row = mid_point // cols
-            mid_point_col = mid_point % cols
-            mid_point_element = matrix[mid_point_row][mid_point_col]
-
-            if target == mid_point_element:
-                return True
-            elif target < mid_point_element:
-                right = mid_point - 1
+            r, c = mid_index
+            print("rc:", r, c)
+            if matrix[r][c] < target:
+                if c == n - 1:
+                    s = [r+1, 0]
+                else:
+                    s = [r, c+1]
+            elif matrix[r][c] > target:
+                if c == 0:
+                    e = [r-1, n - 1]
+                else:
+                    e = [r, c - 1]
             else:
-                left = mid_point + 1
-
+                return True
+            
+            print(s, e)
+        
         return False
+        
