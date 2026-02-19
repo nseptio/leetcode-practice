@@ -13,7 +13,7 @@ class Solution:
             mid_index = [mid_index_len // n, mid_index_len % n]
 
             r, c = mid_index
-            print("rc:", r, c)
+
             if matrix[r][c] < target:
                 if c == n - 1:
                     s = [r+1, 0]
@@ -26,8 +26,6 @@ class Solution:
                     e = [r, c - 1]
             else:
                 return True
-            
-            print(s, e)
         
         return False
         
