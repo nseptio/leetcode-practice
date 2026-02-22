@@ -81,4 +81,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nseptio/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nseptio/leetcode-practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nseptio/leetcode-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
