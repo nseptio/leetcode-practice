@@ -24,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/nseptio/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nseptio/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nseptio/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/nseptio/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nseptio/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nseptio/leetcode-practice/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nseptio/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
