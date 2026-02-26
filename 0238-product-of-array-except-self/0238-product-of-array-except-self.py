@@ -9,7 +9,7 @@ class Solution:
 
         suffix = 1
         for j in range(len(nums) - 1, -1, -1):
-            result[j] = suffix * result[j]
+            result[j] *= suffix
             suffix *= nums[j]
         
         return result
