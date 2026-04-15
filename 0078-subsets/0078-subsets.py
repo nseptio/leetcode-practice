@@ -1,6 +1,5 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        index = 0
         res = []
 
         def search_subsets(i, curr):
@@ -13,5 +12,5 @@ class Solution:
             search_subsets(i, curr_added)
             search_subsets(i, curr)
         
-        search_subsets(index, [])
+        search_subsets(0, [])
         return res
