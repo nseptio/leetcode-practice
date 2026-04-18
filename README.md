@@ -23,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/nseptio/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/nseptio/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nseptio/leetcode-practice/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/nseptio/leetcode-practice/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/nseptio/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nseptio/leetcode-practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nseptio/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/nseptio/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nseptio/leetcode-practice/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/nseptio/leetcode-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nseptio/leetcode-practice/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
