@@ -78,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nseptio/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nseptio/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -137,4 +138,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nseptio/leetcode-practice/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nseptio/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nseptio/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
