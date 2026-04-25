@@ -29,6 +29,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nseptio/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nseptio/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/nseptio/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0747-min-cost-climbing-stairs](https://github.com/nseptio/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/nseptio/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nseptio/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/nseptio/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
